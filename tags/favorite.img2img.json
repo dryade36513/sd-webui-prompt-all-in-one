@@ -1,0 +1,1278 @@
+[
+    {
+        "id": "bcde92ce-2457-11ef-a7f2-f4c4eaf9df8e",
+        "time": 1717714472,
+        "name": "male and female",
+        "tags": [
+            {
+                "id": "171771445646292434",
+                "value": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "171771445646271842",
+                "value": "girls",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "girls",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717714456462540863",
+                "value": "boys",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "boys",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1717714456462589814",
+                "value": "detailed face",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detailed face",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1717714456462708281",
+                "value": "(((black eyes)))",
+                "localValue": "(((\u9ed1\u8272\u773c\u775b)))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "black eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1717714456462322671",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717714456462391204",
+                "value": "<lora:add_detail:1>",
+                "localValue": "[v1.0] Detail Tweaker LoRA (\u7ec6\u8282\u8c03\u6574LoRA)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG)),girls,boys,detailed face,(((black eyes))),contemporary,<lora:add_detail:1>,"
+    },
+    {
+        "id": "618389bb-245d-11ef-ab6b-f4c4eaf9df8e",
+        "time": 1717716895,
+        "name": "\u6709\u9b0d\u5b50\u7537",
+        "tags": [
+            {
+                "id": "1717716891526362726",
+                "value": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1717716891527146420",
+                "value": "(1boy, Stubble,handsome detailed face, solid eyes)",
+                "localValue": "(1\u7537\u5b69, \u832c, \u5805\u5b9a\u7684\u773c\u775b)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "1boy, Stubble,handsome detailed face, solid eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "1boy, Stubble,handsome detailed face, solid eyes",
+                    "right": ")"
+                }
+            },
+            {
+                "id": "1717716891527749893",
+                "value": "(((black eyes)))",
+                "localValue": "(((\u9ed1\u8272\u773c\u775b)))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "black eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717716891527605354",
+                "value": "detailed hair",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detailed hair",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717716891527899048",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717716891527327621",
+                "value": "<lora:add_detail:1>",
+                "localValue": "[v1.0] Detail Tweaker LoRA (\u7ec6\u8282\u8c03\u6574LoRA)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:)),(1boy, Stubble,handsome detailed face, solid eyes),(((black eyes))),detailed hair,contemporary,<lora:add_detail:1>,"
+    },
+    {
+        "id": "eddd1124-24cb-11ef-a54c-f4c4eaf9df8e",
+        "time": 1717764375,
+        "name": "man and woman",
+        "tags": [
+            {
+                "id": "1717764370458465439",
+                "value": "(((best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(((",
+                    "value": "best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                    "right": ")))"
+                },
+                "isFavorite": false
+            },
+            {
+                "id": "17177643704588644",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717764370458466149",
+                "value": "1boy",
+                "localValue": "1\u7537\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1boy",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "171776437045815206",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1717764370458761285",
+                "value": "<lora:add_detail:1>",
+                "localValue": "[v1.0] Detail Tweaker LoRA (\u7ec6\u8282\u8c03\u6574LoRA)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG))),1girl,1boy,contemporary,<lora:add_detail:1>,"
+    },
+    {
+        "id": "059512b0-2735-11ef-b9d6-cde6cb5a12ce",
+        "time": 1718029415,
+        "name": "General male",
+        "tags": [
+            {
+                "id": "1718029405600317021",
+                "value": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1718029405600217797",
+                "value": "(1boy, handsome detailed face, solid eyes, Well-Proportioned Hands)",
+                "localValue": "(1\u7537\u5b69, \u575a\u5b9a\u7684\u773c\u775b)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "1boy, handsome detailed face, solid eyes, Well-Proportioned Hands",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "1boy, handsome detailed face, solid eyes, Well-Proportioned Hands",
+                    "right": ")"
+                }
+            },
+            {
+                "id": "171802940560089112",
+                "value": "(((black eyes)))",
+                "localValue": "(((\u9ed1\u8272\u773c\u775b)))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "black eyes",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1718029405600667331",
+                "value": "detailed hair",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "detailed hair",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "171802940560187602",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1718029405601647060",
+                "value": "<lora:add_detail:1>",
+                "localValue": "[v1.0] Detail Tweaker LoRA (\u7ec6\u8282\u8c03\u6574LoRA)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:)),(1boy, handsome detailed face, solid eyes, Well-Proportioned Hands),(((black eyes))),detailed hair,contemporary,<lora:add_detail:1>,"
+    },
+    {
+        "id": "228ee329-2735-11ef-83b3-cde6cb5a12ce",
+        "time": 1718029463,
+        "name": "\u5f88\u57fa\u790e",
+        "tags": [
+            {
+                "id": "171802945128081743",
+                "value": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1718029451280422164",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1718029451281908213",
+                "value": "modern object",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "modern object",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1718029451281773624",
+                "value": "<lora:add_detail:1>",
+                "localValue": "[v1.0] Detail Tweaker LoRA (\u7ec6\u8282\u8c03\u6574LoRA)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG:)),contemporary,modern object,<lora:add_detail:1>,"
+    },
+    {
+        "id": "52146089-2c59-11ef-8d46-95c807083c28",
+        "time": 1718594761,
+        "name": "PCM Female",
+        "tags": [
+            {
+                "id": "1718594731237626943",
+                "value": "(((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(((",
+                    "value": "best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                    "right": ")))"
+                },
+                "isFavorite": false
+            },
+            {
+                "id": "1718594731237628246",
+                "value": "1girl",
+                "localValue": "1\u5973\u5b69",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "1girl",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1718594731237315772",
+                "value": "{{black eyes, Well-Proportioned Hands}}",
+                "localValue": "{{\u9ed1\u8272\u773c\u775b}}",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "{{black eyes, Well-Proportioned Hands}}",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "{{",
+                    "value": "black eyes, Well-Proportioned Hands",
+                    "right": "}}"
+                }
+            },
+            {
+                "id": "1718594731237147280",
+                "value": "(beautiful detailed face, aqua eyes, detailed hair)",
+                "localValue": "(\u6c34\u84dd\u8272\u773c\u775b / \u9752\u8272\u773c\u775b)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "beautiful detailed face, aqua eyes, detailed hair",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "beautiful detailed face, aqua eyes, detailed hair",
+                    "right": ")"
+                }
+            },
+            {
+                "id": "1718594731237223957",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true
+            },
+            {
+                "id": "1718594731237476370",
+                "value": "<lora:pcm_sd15_normalcfg_16step:1>",
+                "localValue": "pcm_sd15_normalcfg_16step",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:pcm_sd15_normalcfg_16step:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "pcm_sd15_normalcfg_16step",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1718594731237452607",
+                "value": "<lora:add_detail 2:1>",
+                "localValue": "add_detail 2",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail 2:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail 2",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, Insane Details, Japanese anime style, perfect anime quality, extremely detailed CG))),1girl,{{black eyes, Well-Proportioned Hands}},(beautiful detailed face, aqua eyes, detailed hair),contemporary,<lora:pcm_sd15_normalcfg_16step:1>,<lora:add_detail 2:1>,"
+    },
+    {
+        "id": "4684febc-2d96-11ef-8393-bf3a1621b082",
+        "time": 1718730892,
+        "name": "PCM General",
+        "tags": [
+            {
+                "id": "1718729832357934056",
+                "value": "(((best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": "bf094bae-2d93-11ef-9c63-bf3a1621b082"
+            },
+            {
+                "id": "1718729832357412220",
+                "value": "male and female",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "male and female",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1718729832357504906",
+                "value": "contemporary",
+                "localValue": "\u73b0\u4ee3\u670d\u88c5",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1718729832357849220",
+                "value": "<lora:pcm_sd15_normalcfg_16step:1>",
+                "localValue": "pcm_sd15_normalcfg_16step",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:pcm_sd15_normalcfg_16step:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "pcm_sd15_normalcfg_16step",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            },
+            {
+                "id": "1718729832357171902",
+                "value": "<lora:add_detail 3:1>",
+                "localValue": "add_detail 3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detail 3:1>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detail 3",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, ultra-details, Japanese anime style, perfect anime quality, extremely detailed CG))),male and female,contemporary,<lora:pcm_sd15_normalcfg_16step:1>,<lora:add_detail 3:1>,"
+    },
+    {
+        "id": "6e064cab-5e3d-11ef-8933-18c04d2aad65",
+        "time": 1724080340,
+        "name": "SD1.5 \u7db2\u5287\u5973",
+        "tags": [
+            {
+                "id": "1724079751001522043",
+                "value": "(((best quality, masterpiece, Insane Details)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1724079751001209041",
+                "value": "Japan Anime style",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "Japan Anime style",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1724079751001436903",
+                "value": "extremely detailed anime",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "extremely detailed anime",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "172407975100179128",
+                "value": "(1girl, make up, lipstick, beautiful detailed face, detailed eyes, detailed hair, contemporary)",
+                "localValue": "(1\u5973\u5b69, \u53e3\u7ea2)",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "1girl, make up, lipstick, beautiful detailed face, detailed eyes, detailed hair, contemporary",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1724079751001352738",
+                "value": "beautiful background",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "beautiful background",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1724079751001773697",
+                "value": "<lora:add_detailed 3:1.25>",
+                "localValue": "add_detailed 3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.25,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detailed 3:1.25>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detailed 3",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, Insane Details))),Japan Anime style,extremely detailed anime,(1girl, make up, lipstick, beautiful detailed face, detailed eyes, detailed hair, contemporary),beautiful background,<lora:add_detailed 3:1.25>,"
+    },
+    {
+        "id": "a80a89c8-5e3d-11ef-b868-18c04d2aad65",
+        "time": 1724080437,
+        "name": "SD1.5 \u7db2\u5287\u7537",
+        "tags": [
+            {
+                "id": "1724080434337929575",
+                "value": "(((best quality, masterpiece, Insane Details)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(((",
+                    "value": "best quality, masterpiece, Insane Details",
+                    "right": ")))"
+                }
+            },
+            {
+                "id": "1724080434337699536",
+                "value": "(Japan Anime style, extremely detailed CG)",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "Japan Anime style, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "(",
+                    "value": "Japan Anime style, extremely detailed CG",
+                    "right": ")"
+                },
+                "isFavorite": false
+            },
+            {
+                "id": "1724080434337299498",
+                "value": "((1boy,adult male,slim,sknny,male_focus,detailed handsome face,detailed eyes,solid_eyes,contemporary,beautiful background))",
+                "localValue": "((1\u7537\u5b69, \u575a\u5b9a\u7684\u773c\u775b))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "1boy,adult male,slim,sknny,male_focus,detailed handsome face,detailed eyes,solid_eyes,contemporary,beautiful background",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isEnglish": 1,
+                "toLocal": true,
+                "splits": {
+                    "left": "((",
+                    "value": "1boy,adult male,slim,sknny,male_focus,detailed handsome face,detailed eyes,solid_eyes,contemporary,beautiful background",
+                    "right": "))"
+                }
+            },
+            {
+                "id": "1724080434337704461",
+                "value": "<lora:add_detailed 3:1.25>",
+                "localValue": "add_detailed 3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.25,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detailed 3:1.25>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detailed 3",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ]
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, Insane Details))),(Japan Anime style, extremely detailed CG),((1boy,adult male,slim,sknny,male_focus,detailed handsome face,detailed eyes,solid_eyes,contemporary,beautiful background)),<lora:add_detailed 3:1.25>,"
+    },
+    {
+        "id": "53c8e000-5e3f-11ef-b5d1-18c04d2aad65",
+        "time": 1724081155,
+        "name": "SD1.5 \u7db2\u5287\u4eba\u7fa4",
+        "tags": [
+            {
+                "id": "1724081113643420226",
+                "value": "(((best quality, masterpiece, Insane Details)))",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 3,
+                "decWeight": 0,
+                "originalValue": "best quality, masterpiece, Insane Details",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1724081113643188696",
+                "value": "(Japan Anime style, extremely detailed CG)",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 1,
+                "decWeight": 0,
+                "originalValue": "Japan Anime style, extremely detailed CG",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1724081113643376296",
+                "value": "((1boy, slim, sknny, facial_hair, black eyes, detailed handsome face, detailed eyes, contemporary, beautiful background))",
+                "localValue": "((1\u7537\u5b69, \u9ed1\u8272\u773c\u775b))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "1boy, slim, sknny, facial_hair, black eyes, detailed handsome face, detailed eyes, contemporary, beautiful background",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "172408111364353253",
+                "value": "\n",
+                "localValue": "\n",
+                "disabled": false,
+                "type": "wrap",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ]
+            },
+            {
+                "id": "1724081113643269312",
+                "value": "((1girl, beautiful detailed face, detailed eyes, detailed hair, modern_clothing))",
+                "localValue": "((1\u5973\u5b69))",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 2,
+                "decWeight": 0,
+                "originalValue": "1girl, beautiful detailed face, detailed eyes, detailed hair, modern_clothing",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1724081113643677956",
+                "value": "group people",
+                "localValue": "",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "group people",
+                "isLora": false,
+                "loraExists": false,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "classes": [
+                    "prompt-tag-value"
+                ],
+                "isFavorite": false
+            },
+            {
+                "id": "1724081113643259897",
+                "value": "<lora:add_detailed 3:1.25>",
+                "localValue": "add_detailed 3",
+                "disabled": false,
+                "type": "text",
+                "weightNum": 1.25,
+                "incWeight": 0,
+                "decWeight": 0,
+                "originalValue": "<lora:add_detailed 3:1.25>",
+                "isLora": true,
+                "loraExists": true,
+                "isLyco": false,
+                "lycoExists": false,
+                "isEmbedding": false,
+                "loraName": "add_detailed 3",
+                "classes": [
+                    "prompt-tag-value",
+                    "lora-tag"
+                ],
+                "isFavorite": false
+            }
+        ],
+        "prompt": "(((best quality, masterpiece, Insane Details))),(Japan Anime style, extremely detailed CG),((1boy, slim, sknny, facial_hair, black eyes, detailed handsome face, detailed eyes, contemporary, beautiful background)),\n((1girl, beautiful detailed face, detailed eyes, detailed hair, modern_clothing)),group people,<lora:add_detailed 3:1.25>,"
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "api_base": "https://api.chatanywhere.tech",
+    "api_key": "sk-2pvRn56MyaAgQJpbvSHbANdnv0ZGvlX6JZ6fZYDygSWMeZGI",
+    "model": "gpt-3.5-turbo"
+}
